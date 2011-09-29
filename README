@@ -8,3 +8,5 @@ To execute:
 
 input_filename should contain input which adheres to the specification given here.
 http://www.facebook.com/careers/puzzles.php?puzzle_id=17
+
+This prints a closest matching word for each input word and it also prints the total edit distance/cost. This can be changed to print all closest matching words for a given input word, if needed.
